@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="VolumeControlGUI.vcxproj" Id="67ea3039-7875-4a70-9397-447b9c6bfd81" />
+</Solution>
